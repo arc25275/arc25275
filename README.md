@@ -5,3 +5,4 @@ I've had basic coding experience in the past (Basic programming classes, APCSP) 
 #### Current projects:
 * [Logger](https://github.com/arc25275/logger) - A discord bot that logs all [discord.js events](https://discord.js.org/#/docs/main/stable/class/Client), for moderation or general logging for servers.
 * [StickyPin](https://github.com/arc25275/stickypin) - A self hosted discord bot that can keep pins to the top of pin lists in channels (Example: To keep guidelines or channel-specific rules at the top of the pins)
+* [CanvasBot](https://github.com/arc25275/canvasbot) - A shitty first attempt at a bot that used the [Canvas](https://www.instructure.com/) [LMS API](https://canvas.instructure.com/doc/api/) that I gave up on after realizing it was useless
