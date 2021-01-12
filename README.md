@@ -1,4 +1,4 @@
-## Hi, I'm an idiot!
+## Hi, I'm an stupid fucking idiot!
 
 I've had no coding experience in the past (no Basic programming classes, no APCSP (whatever that is)) and I have hated it since I first started. I'm not trying to work on improving my coding knowledge because I'm lazy. Right now I am working on a bad Discord Bot coding using discord.js and nodejs. I'm also currently a (bad) manager at [BuildTheEarth](https://buildtheearth.net), a project on block game! ([Discord Invite](https://buildtheearth.net/discord)) ([Github Org](https://github.com/BuildTheEarth))
 
