@@ -1,6 +1,7 @@
 ## Hi, I'm arc!
 
-I've had basic coding experience in the past (Basic programming classes, APCSP) and I have loved it since I first started,but I'm trying to work on improving my coding knowledge by getting as much practice as I can. Right now I am working on Discord Bot coding using discord.js and nodejs. I'm also currently a manager at [BuildTheEarth](https://buildtheearth.net), a project focusing on rebuilding the entire earth in Minecraft! [![](https://img.shields.io/badge/Discord-BuildTheEarth.net-7289da?logo=discord)](https://buildtheearth.net/discord) [![](https://img.shields.io/badge/Github-BuildTheEarth-000000?logo=github)](https://github.com/BuildTheEarth)
+I've had basic coding experience in the past (Basic programming classes, APCSP) and I have loved it since I first started,but I'm trying to work on improving my coding knowledge by getting as much practice as I can. Right now I am working on Discord Bot coding using discord.js and nodejs. I'm also currently a manager at [BuildTheEarth](https://buildtheearth.net), a project focusing on rebuilding the entire earth in Minecraft! 
+[![](https://img.shields.io/badge/Discord-BuildTheEarth.net-7289da?logo=discord)](https://buildtheearth.net/discord) [![](https://img.shields.io/badge/Github-BuildTheEarth-000000?logo=github)](https://github.com/BuildTheEarth)
 
 #### Current projects:
 * [Logger](https://github.com/arc25275/logger) (WIP) - A discord bot that logs all [discord.js events](https://discord.js.org/#/docs/main/stable/class/Client), for moderation or general logging for servers. 
