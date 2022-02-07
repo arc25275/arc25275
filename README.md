@@ -1,6 +1,6 @@
 ## Hi, I'm arc!
 
-I'm a high school senior currently applying to colleges, hoping to get in to work on computer science! I love programing, gaming, and right now I am learning how to program games with Unity and C#! I'm also currently a discord bot developer at [BuildTheEarth](https://buildtheearth.net), a project focusing on rebuilding the entire earth in Minecraft! 
+I'm a high school senior currently applying to colleges, hoping to get a compsci degree! I love programing, gaming, and right now I am learning how to program games with Unity and C# I'm also currently a discord bot developer at [BuildTheEarth](https://buildtheearth.net), a project focusing on rebuilding the entire earth in Minecraft! 
 [![](https://img.shields.io/badge/Github-BuildTheEarth-000000?logo=github)](https://github.com/BuildTheEarth)
 
 ### Experience:
