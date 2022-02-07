@@ -30,3 +30,4 @@ HTML / CSS - AP Computer Science
 ##### On hold:
 * [Logger](https://github.com/arc25275/logger) (WIP) - A discord bot that logs all [discord.js events](https://discord.js.org/#/docs/main/stable/class/Client), for moderation or general logging for servers. Lost motivation as it got pretty repetitive
 
+
