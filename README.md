@@ -1,6 +1,6 @@
 ## Hi, I'm arc!
 
-I'm a high school senior currently applying to colleges, hoping to get a compsci degree! I love programing, gaming, and right now I am learning how to program games with Unity and C#. I'm also currently a discord bot developer at [BuildTheEarth](https://buildtheearth.net), a project focusing on rebuilding the entire earth in Minecraft! 
+I'm a high school senior that is going to Oregon State University this fall! I love programing, gaming, and right now I am learning how to program games with Unity and C#. I'm also currently a discord bot developer at [BuildTheEarth](https://buildtheearth.net), a project focusing on rebuilding the entire earth in Minecraft! 
 [![](https://img.shields.io/badge/Github-BuildTheEarth-000000?logo=github)](https://github.com/BuildTheEarth)
 
 ### Experience:
@@ -16,7 +16,7 @@ HTML / CSS - AP Computer Science
 #### Current projects:
 
 * [main-bot](https://github.com/BuildTheEarth/main-bot) - The main bot of the BTE discord server, currently working with a few others to add features and fix any bugs that pop up.
-* Untitled game - No code on github yet, but a concept can be seen at https://www.arc25275.dev/game, where the basic concept is a platformer where you are able to switch between the background and foreground.
+* Untitled game - No code on github yet, but a concept can be seen at https://www.arc25275.dev/game, where the basic concept is a platformer where you are able to switch between the background and foreground. Art is WIP/Not done or planned at the moment.
 * [Website](https://arc25275.dev) - Not really anything done yet, but probably info similar to this will be put there, along with other demos and portfolios
 
 #### Future projects:
