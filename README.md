@@ -1,6 +1,6 @@
 
 ### Experience:
-JS / TS / Node — AP Computer Science / Self Taught for more advanced topics.
+JS / TS / Node — AP Computer Science, Intro to Databases / Self Taught for more advanced topics.
 
 Python - Work, School (Intro to Python, Data Structures, Analysis of Algorithms) (Current Strongest Language)
 
