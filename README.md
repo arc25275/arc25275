@@ -12,7 +12,7 @@ HTML / CSS - AP Computer Science, Web Development class
 
 Currently learning - Assembly (MASM), Elm, Prolog
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arc25275&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arc25275&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5" alt="ovi" />
 
 #### Current Work:
 * [Website](https://arc25275.dev) - Not really anything done yet, but probably info similar to this will be put there, along with other demos and portfolios
