@@ -20,17 +20,12 @@ Svelte — Venome
 
 SQL — Intro to Databases, Venome
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arc25275&show_icons=true&locale=en&layout=compact&theme=catppuccin_mocha&size_weight=0.5&count_weight=0.5" alt="ovi" />
 
-#### Current Classes:
-* [Senior Software Project - Unknown Venome](https://github.com/Venom-Biochem-Lab/venome) - 3 Term Team Capstone Project in collaboration with a BioChem professor, focused on cataloguing the proteins related to their Wasp Venom research. Continuing work from previous year.
-  
-* Operating Systems II - Learning about User-Kernel-Hardware communication and OS Architecture using XV6
-  
-* Information Visualization - Learning techniques to show data using R and Gephi.
 
 
 #### Side Projects: 
+* [Senior Software Project - Unknown Venome](https://github.com/Venom-Biochem-Lab/venome) - 3 Term Team Capstone Project in collaboration with a BioChem professor, focused on cataloguing the proteins related to their Wasp Venom research. Continuing work from previous year.
+  
 * [Firefox](https://bugzilla.mozilla.org/show_bug.cgi?id=1869772) - First contribution to Firefox. Started during OSS class and finished later. Added URL options to `about:translations` page for easier saving and loading of translations.
 
 * [Create Astral](https://github.com/arc25275/Create-Astral) - A minecraft modpack that I contributed to in the form of KubeJS files, which can define custom behaviors and interactions between different mods. Worked on refactoring as well as adding new features.
@@ -46,6 +41,10 @@ SQL — Intro to Databases, Venome
 
 
 #### Past Classes 
+* Operating Systems II - Learning about User-Kernel-Hardware communication and OS Architecture using XV6
+  
+* Information Visualization - Learning techniques to show data using R and Gephi.
+* 
 * [Software Engineering I](https://github.com/arc25275/todo) - General concepts of software engineering lifecycle. Agile and other project management, as well as usability engineering. Ended up using lots of Tkinter for the first time. Focus on [microservices](https://github.com/arc25275/weather_icons).
   
 * [Computer Architecture and Assembly](https://github.com/arc25275/MASM-projects) - Basics of a CISC computer, and learning MASM Assembly programming
