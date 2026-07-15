@@ -21,8 +21,6 @@ Svelte — Venome
 SQL — Intro to Databases, Venome
 
 
-
-
 #### Side Projects: 
 * [Senior Software Project - Unknown Venome](https://github.com/Venom-Biochem-Lab/venome) - 3 Term Team Capstone Project in collaboration with a BioChem professor, focused on cataloguing the proteins related to their Wasp Venom research. Continuing work from previous year.
   
@@ -44,7 +42,7 @@ SQL — Intro to Databases, Venome
 * Operating Systems II - Learning about User-Kernel-Hardware communication and OS Architecture using XV6
   
 * Information Visualization - Learning techniques to show data using R and Gephi.
-* 
+  
 * [Software Engineering I](https://github.com/arc25275/todo) - General concepts of software engineering lifecycle. Agile and other project management, as well as usability engineering. Ended up using lots of Tkinter for the first time. Focus on [microservices](https://github.com/arc25275/weather_icons).
   
 * [Computer Architecture and Assembly](https://github.com/arc25275/MASM-projects) - Basics of a CISC computer, and learning MASM Assembly programming
